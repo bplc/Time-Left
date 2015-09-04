@@ -1,6 +1,8 @@
-name:           Scared Kya?
+name:           Ready Kya?
 nickname:       Ready?
 plugin_version: 2.1.0
+newdate:        '2015/09/05'
+description:    Venue
 baseurl:        http://bplc.github.io/Time-Left/
 highlight:      true
 markdown:       redcarpet
