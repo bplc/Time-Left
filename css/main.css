@@ -366,11 +366,11 @@ footer a:visited:hover {
  * Home module
  */
 .home-welcome {
-  background-image: linear-gradient(45deg, #361752, #B31B67);
-  background-image: -webkit-linear-gradient(45deg, #361752, #B31B67);
-  background-image: -moz-linear-gradient(45deg, #361752, #B31B67);
-  background-image: -ms-linear-gradient(45deg, #361752, #B31B67);
-  background-image: -o-linear-gradient(45deg, #361752, #B31B67);
+  background-image: linear-gradient(45deg, #ff00b4, #ff39ed);
+  background-image: -webkit-linear-gradient(45deg, #ff00b4, #ff39ed);
+  background-image: -moz-linear-gradient(45deg, #ff00b4, #ff39ed);
+  background-image: -ms-linear-gradient(45deg, #ff00b4, #ff39ed);
+  background-image: -o-linear-gradient(45deg, #ff00b4, #ff39ed);
   color: white;
   padding: 2em 0 4em;
   font-size: 125%;
