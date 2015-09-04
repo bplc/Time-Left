@@ -446,9 +446,6 @@ footer a:visited:hover {
   .home-welcome {
     padding: 0;
   }
-  .home-welcome h1 {
-    display: none;
-  }
   .home-welcome .pure-button {
     display: block;
     margin-top: 20px;
